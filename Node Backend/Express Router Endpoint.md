@@ -1,7 +1,7 @@
 <details>
   <summary>Can you demonstrate how you would use the Express.js Router to create a RESTful API endpoint that accepts a parameter and returns a JSON response?</summary>
   
-  ```
+  ```js
   const express = require('express');
   const app = express();
   

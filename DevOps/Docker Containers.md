@@ -7,7 +7,7 @@
 
   A Dockerfile is a script used to build a Docker container image. It contains a set of instructions that tell Docker how to create the image, including the base image to use, any software packages to install, and how to configure the container. Here is an example of a Dockerfile:
 
-  ```
+  ```bash
   # Use an official Python runtime as a parent image
   FROM python:3.9-slim-buster
 
@@ -39,5 +39,6 @@
   * `EXPOSE`: Specifies which ports to expose from the container to the host system.
   * `ENV`: Defines an environment variable.
   * `CMD`: Specifies the command to run when the container starts.
+  
   By running `docker build` command, Docker reads the Dockerfile and builds an image. Once the image is built, it can be used to create containers that run the application.
 </details>

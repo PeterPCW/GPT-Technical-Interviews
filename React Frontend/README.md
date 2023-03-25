@@ -1,6 +1,6 @@
 # Central location for all of the questions without answers:
 
-Explain the process of implementing a React component that communicates with a microservice hosted on AWS. Walk me through the steps involved in setting up the connection and handling data retrieval and updates.
+[Explain the process of implementing a React component that communicates with a microservice hosted on AWS. Walk me through the steps involved in setting up the connection and handling data retrieval and updates.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/React%2BMicroservice%20on%20AWS.md)
 
 How would you optimize the performance of a React application that connects to a microservice? What techniques and strategies would you use to minimize latency, reduce server load, and ensure a smooth user experience?
 

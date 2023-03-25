@@ -1,6 +1,6 @@
 # Central location for all of the questions without answers:
 
-Explain how Docker containers work and how they differ from virtual machines. Provide an example of a Dockerfile and explain the different sections.
+[Explain how Docker containers work and how they differ from virtual machines. Provide an example of a Dockerfile and explain the different sections.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Docker%20Containers.md)
 
 What is Kubernetes? How does it help manage containerized applications? Describe the architecture of a Kubernetes cluster and the role of each component. Provide an example of how to deploy a Docker container using Kubernetes.
 

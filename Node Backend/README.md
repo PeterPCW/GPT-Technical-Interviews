@@ -1,6 +1,6 @@
 # Central location for all of the questions without answers:
 
-Can you demonstrate how you would use the Express.js Router to create a RESTful API endpoint that accepts a parameter and returns a JSON response?
+[Can you demonstrate how you would use the Express.js Router to create a RESTful API endpoint that accepts a parameter and returns a JSON response?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Express%20Router%20Endpoint.md)
 
 How would you use Koa.js middleware to implement an authentication system that requires users to provide a JWT token in the headers of their HTTP requests?
 

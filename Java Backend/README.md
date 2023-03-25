@@ -1,6 +1,6 @@
 # Central location for all of the questions without answers:
 
-How do you configure and deploy a Spring Boot application on AWS using Docker containers? What tools do you use to automate the deployment process?
+[How do you configure and deploy a Spring Boot application on AWS using Docker containers? What tools do you use to automate the deployment process?/(https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Automated%20Spring%20Boot%2BDocker.md)
 
 How do you design and implement an authentication and authorization mechanism for a Java microservices architecture? What are the best practices for securing RESTful APIs?
 
