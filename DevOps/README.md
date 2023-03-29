@@ -8,15 +8,15 @@
 
 [What is a Pod in Kubernetes? How does it differ from a container? How do you create and manage Pods in Kubernetes? Provide an example of a YAML file to create a Pod in Kubernetes.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Kubernetes%20Pods.md)
 
-What are Kubernetes Controllers? What are some common types of Controllers and what do they do? Explain how a ReplicaSet Controller works and how it can be used to manage Pod replicas in a Kubernetes cluster. Provide an example of a YAML file to create a ReplicaSet Controller in Kubernetes.
+[What are Kubernetes Controllers? What are some common types of Controllers and what do they do? Explain how a ReplicaSet Controller works and how it can be used to manage Pod replicas in a Kubernetes cluster. Provide an example of a YAML file to create a ReplicaSet Controller in Kubernetes.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Kubernetes%20ReplicaSet%20Controller.md)
 
-Explain the difference between Continuous Integration and Continuous Delivery. What is the purpose of Continuous Integration, and how does it help ensure software quality? Describe the steps involved in implementing Continuous Integration with Jenkins, including the setup of a Jenkins pipeline.
+[Explain the difference between Continuous Integration and Continuous Delivery. What is the purpose of Continuous Integration, and how does it help ensure software quality? Describe the steps involved in implementing Continuous Integration with Jenkins, including the setup of a Jenkins pipeline.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Continuous%20Integration%20vs%20Delivery.md)
 
-What is Jenkins and how is it used for Continuous Integration? Describe the architecture of a Jenkins system, including the roles of the Jenkins Master and Jenkins Slave nodes. Explain how to configure Jenkins to build, test, and deploy a simple Java application using Maven and Git.
+[What is Jenkins and how is it used for Continuous Integration? Describe the architecture of a Jenkins system, including the roles of the Jenkins Master and Jenkins Slave nodes. Explain how to configure Jenkins to build, test, and deploy a simple Java application using Maven and Git.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Jenkins%20Maven%20Git.md)
 
-Describe the use of CircleCI in a Continuous Integration workflow. How does CircleCI differ from Jenkins, and what are some advantages of using CircleCI? Explain how to set up a CircleCI pipeline to build and test a Node.js application stored in a GitHub repository. Provide an example of a configuration file for the CircleCI pipeline.
+[Describe the use of CircleCI in a Continuous Integration workflow. How does CircleCI differ from Jenkins, and what are some advantages of using CircleCI? Explain how to set up a CircleCI pipeline to build and test a Node.js application stored in a GitHub repository. Provide an example of a configuration file for the CircleCI pipeline.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/CircleCI%20vs%20Jenkins.md)
 
-How does Ansible differ from Chef in terms of Configuration Management? Explain the Ansible Playbook structure and its components, and provide an example of a Playbook that installs and configures Nginx on a remote server.
+[How does Ansible differ from Chef in terms of Configuration Management? Explain the Ansible Playbook structure and its components, and provide an example of a Playbook that installs and configures Nginx on a remote server.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Ansible%20Playbook%20Nginx.md)
 
 Explain how Chef works and how it is used for Configuration Management. Describe the architecture of a Chef deployment, including the Chef Server, Workstation, and Nodes. Provide an example of a Chef recipe that installs and configures Apache on a node.
 
