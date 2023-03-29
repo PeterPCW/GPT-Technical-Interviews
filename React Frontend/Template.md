@@ -1,9 +1,9 @@
 <details>
-  <summary>Interview Question Text</summary>
+  <summary>Interview Question Here</summary>
   
   
-  
+
   ```js
-  
+
   ```
 </details>
