@@ -1,12 +1,12 @@
 # Central location for all of the questions without answers:
 
-[How do you configure and deploy a Spring Boot application on AWS using Docker containers? What tools do you use to automate the deployment process?/(https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Automated%20Spring%20Boot%2BDocker.md)
+[How do you configure and deploy a Spring Boot application on AWS using Docker containers? What tools do you use to automate the deployment process?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Automated%20Spring%20Boot%2BDocker.md)
 
-How do you design and implement an authentication and authorization mechanism for a Java microservices architecture? What are the best practices for securing RESTful APIs?
+[How do you design and implement an authentication and authorization mechanism for a Java microservices architecture? What are the best practices for securing RESTful APIs?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/API%20Authentication%20and%20Security.md)
 
-Can you explain in detail how you implement fault tolerance and resilience in a distributed system using Spring Cloud and Netflix OSS? How do you handle circuit breaking, retries, and fallbacks?
+[Can you explain in detail how you implement fault tolerance and resilience in a distributed system using Spring Cloud and Netflix OSS? How do you handle circuit breaking, retries, and fallbacks?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Circuit%20Breaking%20Retries%20and%20Fallbacks.md)
 
-How do you optimize the performance of a Java microservices application deployed on AWS? What techniques do you use to minimize latency and maximize throughput?
+[How do you optimize the performance of a Java microservices application deployed on AWS? What techniques do you use to minimize latency and maximize throughput?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Optimizing%20AWS%20Microservice.md)
 
 Can you walk me through how you design and implement a scalable and fault-tolerant database architecture for a Java microservices application using Amazon RDS and Amazon DynamoDB? What are the trade-offs between relational and NoSQL databases in a microservices context?
 

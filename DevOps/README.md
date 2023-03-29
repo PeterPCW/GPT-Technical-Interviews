@@ -2,11 +2,11 @@
 
 [Explain how Docker containers work and how they differ from virtual machines. Provide an example of a Dockerfile and explain the different sections.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Docker%20Containers.md)
 
-What is Kubernetes? How does it help manage containerized applications? Describe the architecture of a Kubernetes cluster and the role of each component. Provide an example of how to deploy a Docker container using Kubernetes.
+[What is Kubernetes? How does it help manage containerized applications? Describe the architecture of a Kubernetes cluster and the role of each component. Provide an example of how to deploy a Docker container using Kubernetes.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Kubernetes%20Architecture.md)
 
-Explain the concept of container orchestration and how it is implemented in Kubernetes. What are some key features of Kubernetes that enable container orchestration, and how do they work? Describe a common use case for container orchestration in a production environment.
+[Explain the concept of container orchestration and how it is implemented in Kubernetes. What are some key features of Kubernetes that enable container orchestration, and how do they work? Describe a common use case for container orchestration in a production environment.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Kubernetes%20Container%20Orchestration.md)
 
-What is a Pod in Kubernetes? How does it differ from a container? How do you create and manage Pods in Kubernetes? Provide an example of a YAML file to create a Pod in Kubernetes.
+[What is a Pod in Kubernetes? How does it differ from a container? How do you create and manage Pods in Kubernetes? Provide an example of a YAML file to create a Pod in Kubernetes.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Kubernetes%20Pods.md)
 
 What are Kubernetes Controllers? What are some common types of Controllers and what do they do? Explain how a ReplicaSet Controller works and how it can be used to manage Pod replicas in a Kubernetes cluster. Provide an example of a YAML file to create a ReplicaSet Controller in Kubernetes.
 

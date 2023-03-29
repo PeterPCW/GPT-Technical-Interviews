@@ -4,8 +4,6 @@ I am using chatGPT to generate technical interview questions related to roles I'
 
 **BE WARNED:** These answers may be incomplete and/or incorrect since they are chatGPT generated. Always review and test code before using it in real applications.
 
-I am writing (mostly) corrected answers on LinkedIn: https://www.linkedin.com/in/peter-williams-a5317865/recent-activity/
-
 To let you have a chance to solve the questions I will hide the answer in a collapsible like so:
 
 <details>
@@ -26,3 +24,5 @@ To let you have a chance to solve the questions I will hide the answer in a coll
   whenApplicable(InterviewQuestionText);
   ```
 </details>
+
+There is also a summary Readme in each category folder with all of the questions. Ones where I have uploaded the answers are linked.

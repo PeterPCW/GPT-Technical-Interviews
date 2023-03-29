@@ -2,11 +2,11 @@
 
 [Can you demonstrate how you would use the Express.js Router to create a RESTful API endpoint that accepts a parameter and returns a JSON response?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Express%20Router%20Endpoint.md)
 
-How would you use Koa.js middleware to implement an authentication system that requires users to provide a JWT token in the headers of their HTTP requests?
+[How would you use Koa.js middleware to implement an authentication system that requires users to provide a JWT token in the headers of their HTTP requests?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Koa%20JWT%20Authentication.md)
 
-Can you demonstrate how you would use Nest.js modules and providers to create a reusable service that interacts with a MongoDB database, and then use this service to implement a CRUD API endpoint for a specific resource?
+[Can you demonstrate how you would use Nest.js modules and providers to create a reusable service that interacts with a MongoDB database, and then use this service to implement a CRUD API endpoint for a specific resource?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Nest%20MongoDB%20API.md)
 
-How would you use Hapi.js plugins to implement a caching layer for a specific API endpoint that returns data that is expensive to compute, and configure the plugin to use Redis as the caching backend?
+[How would you use Hapi.js plugins to implement a caching layer for a specific API endpoint that returns data that is expensive to compute, and configure the plugin to use Redis as the caching backend?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Hapi%20Redis%20Caching.md)
 
 Can you demonstrate how you would use Meteor.js to implement a real-time chat application that uses WebSockets to transmit messages between users, and stores messages in a MongoDB database for persistence? Bonus points if you can also implement a simple user authentication system using Meteor.js accounts.
 

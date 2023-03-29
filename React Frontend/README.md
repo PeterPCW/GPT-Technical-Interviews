@@ -2,11 +2,11 @@
 
 [Explain the process of implementing a React component that communicates with a microservice hosted on AWS. Walk me through the steps involved in setting up the connection and handling data retrieval and updates.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/React%2BMicroservice%20on%20AWS.md)
 
-How would you optimize the performance of a React application that connects to a microservice? What techniques and strategies would you use to minimize latency, reduce server load, and ensure a smooth user experience?
+[How would you optimize the performance of a React application that connects to a microservice? What techniques and strategies would you use to minimize latency, reduce server load, and ensure a smooth user experience?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Optimize%20React.md)
 
-What are some of the most advanced CSS3 features, and how would you used them to create responsive, dynamic user interfaces? How do you ensure cross-browser compatibility?
+[What are some of the most advanced CSS3 features, and how would you used them to create responsive, dynamic user interfaces? How do you ensure cross-browser compatibility?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Advanced%20CSS3.md)
 
-What are some common design patterns used in React applications? How would you use these patterns to build a scalable, maintainable application that can connect to a microservice backend?
+[What are some common design patterns used in React applications? How would you use these patterns to build a scalable, maintainable application that can connect to a microservice backend?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/React%20Design%20Patterns.md)
 
 How would you secure a React application that connects to a microservice hosted on AWS? What measures would you take to protect user data, prevent unauthorized access, and ensure compliance with industry standards and regulations?
 
