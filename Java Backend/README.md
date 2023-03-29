@@ -8,17 +8,17 @@
 
 [How do you optimize the performance of a Java microservices application deployed on AWS? What techniques do you use to minimize latency and maximize throughput?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Optimizing%20AWS%20Microservice.md)
 
-Can you walk me through how you design and implement a scalable and fault-tolerant database architecture for a Java microservices application using Amazon RDS and Amazon DynamoDB? What are the trade-offs between relational and NoSQL databases in a microservices context?
+[Can you walk me through how you design and implement a scalable and fault-tolerant database architecture for a Java microservices application using Amazon RDS and Amazon DynamoDB? What are the trade-offs between relational and NoSQL databases in a microservices context?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/DynamoDB%20Relational%20NoSQL.md)
 
-Write a Java Spring Boot microservice that exposes a RESTful API to create, read, update, and delete records from a database. The service should use JPA/Hibernate to interact with the database, and implement basic error handling and validation.
+[Write a Java Spring Boot microservice that exposes a RESTful API to create, read, update, and delete records from a database. The service should use JPA/Hibernate to interact with the database, and implement basic error handling and validation.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Spring%20Boot%20JPA%20Hibernate.md)
 
-Implement a caching mechanism in a Java microservice using Spring Cache and Redis. The service should cache the response of a slow operation (e.g., a database query), and invalidate the cache when the underlying data changes.
+[Implement a caching mechanism in a Java microservice using Spring Cache and Redis. The service should cache the response of a slow operation (e.g., a database query), and invalidate the cache when the underlying data changes.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Spring%20Cache%20Redis.md)
 
-Develop a Java Spring Boot microservice that consumes a third-party API (e.g., OpenWeatherMap), and exposes a simplified API to retrieve weather data for a given location. The service should use Feign to call the external API, and implement basic error handling and retries.
+[Develop a Java Spring Boot microservice that consumes a third-party API (e.g., OpenWeatherMap), and exposes a simplified API to retrieve weather data for a given location. The service should use Feign to call the external API, and implement basic error handling and retries.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Spring%20Boot%20Feign.md)
 
-Implement a rate limiting feature in a Java Spring Boot microservice using Spring Cloud Gateway and Redis. The service should limit the number of requests that can be made per minute per user or IP address, and return an HTTP 429 error when the limit is exceeded.
+[Implement a rate limiting feature in a Java Spring Boot microservice using Spring Cloud Gateway and Redis. The service should limit the number of requests that can be made per minute per user or IP address, and return an HTTP 429 error when the limit is exceeded.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Limiting%20Spring%20Cloud%20Gateway.md)
 
-Write a Java Spring Boot microservice that processes incoming messages from a message queue (e.g., Amazon SQS), and stores the data in a database. The service should use Spring Cloud Stream to consume messages asynchronously, and implement basic error handling and retry logic.
+[Write a Java Spring Boot microservice that processes incoming messages from a message queue (e.g., Amazon SQS), and stores the data in a database. The service should use Spring Cloud Stream to consume messages asynchronously, and implement basic error handling and retry logic.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Amazon%20SQS%20Stream.md)
 
 Design and implement a Java Spring Boot microservice that uses Amazon DynamoDB to store and retrieve data. The service should expose a RESTful API to create, read, update, and delete records, and use the DynamoDB SDK to interact with the database.
 
