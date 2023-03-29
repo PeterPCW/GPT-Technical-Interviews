@@ -8,17 +8,17 @@
 
 [How would you use Hapi.js plugins to implement a caching layer for a specific API endpoint that returns data that is expensive to compute, and configure the plugin to use Redis as the caching backend?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Hapi%20Redis%20Caching.md)
 
-Can you demonstrate how you would use Meteor.js to implement a real-time chat application that uses WebSockets to transmit messages between users, and stores messages in a MongoDB database for persistence? Bonus points if you can also implement a simple user authentication system using Meteor.js accounts.
+[Can you demonstrate how you would use Meteor.js to implement a real-time chat application that uses WebSockets to transmit messages between users, and stores messages in a MongoDB database for persistence? Bonus points if you can also implement a simple user authentication system using Meteor.js accounts.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Meteor%20WebSockets%20Chat.md)
 
-Can you demonstrate how you would create a JWT-based authentication API endpoint using Node.js, and use it to restrict access to a protected resource?
+[Can you demonstrate how you would create a JWT-based authentication API endpoint using Node.js, and use it to restrict access to a protected resource?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/JWT%20Authentication%20API.md)
 
-Can you demonstrate how you would create a RESTful API endpoint using Node.js and the Sequelize ORM, and use it to retrieve all records that meet a certain criteria from a MySQL database?
+[Can you demonstrate how you would create a RESTful API endpoint using Node.js and the Sequelize ORM, and use it to retrieve all records that meet a certain criteria from a MySQL database?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Express%20REST%20MySQL.md)
 
-Can you demonstrate how you would create an API endpoint using Node.js and the Stripe API, and use it to charge a user's credit card for a specific amount?
+[Can you demonstrate how you would create an API endpoint using Node.js and the Stripe API, and use it to charge a user's credit card for a specific amount?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Stripe%20API.md)
 
-Can you demonstrate how you would create a real-time chat API endpoint using Node.js and the Socket.io library, and use it to broadcast messages to all connected clients?
+[Can you demonstrate how you would create a real-time chat API endpoint using Node.js and the Socket.io library, and use it to broadcast messages to all connected clients?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/RT%20SocketIO%20Broadcast.md)
 
-Can you demonstrate how you would create a RESTful API endpoint using Node.js and the Amazon S3 API, and use it to upload and download files to and from an S3 bucket?
+[Can you demonstrate how you would create a RESTful API endpoint using Node.js and the Amazon S3 API, and use it to upload and download files to and from an S3 bucket?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Amazon%20S3%20FileIO.md)
 
 How would you create an SQL schema and seed it with data using Node.js and the Sequelize ORM? Bonus points if you can demonstrate how you would create a migration to modify the schema.
 
