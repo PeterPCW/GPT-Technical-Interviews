@@ -1,4 +1,4 @@
-# Central location for all of the questions:
+# All of the questions without answers (answer linked if uploaded):
 
 [Explain the process of implementing a React component that communicates with a microservice hosted on AWS. Walk me through the steps involved in setting up the connection and handling data retrieval and updates.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/React%2BMicroservice%20on%20AWS.md)
 

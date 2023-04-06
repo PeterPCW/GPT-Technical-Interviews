@@ -1,4 +1,4 @@
-# Central location for all of the questions without answers:
+# All of the questions without answers (answer linked if uploaded):
 
 [Can you demonstrate how you would use the Express.js Router to create a RESTful API endpoint that accepts a parameter and returns a JSON response?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Express%20Router%20Endpoint.md)
 

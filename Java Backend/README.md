@@ -1,4 +1,4 @@
-# Central location for all of the questions without answers:
+# All of the questions without answers (answer linked if uploaded):
 
 [How do you configure and deploy a Spring Boot application on AWS using Docker containers? What tools do you use to automate the deployment process?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Automated%20Spring%20Boot%2BDocker.md)
 
@@ -20,15 +20,15 @@
 
 [Write a Java Spring Boot microservice that processes incoming messages from a message queue (e.g., Amazon SQS), and stores the data in a database. The service should use Spring Cloud Stream to consume messages asynchronously, and implement basic error handling and retry logic.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Amazon%20SQS%20Stream.md)
 
-Design and implement a Java Spring Boot microservice that uses Amazon DynamoDB to store and retrieve data. The service should expose a RESTful API to create, read, update, and delete records, and use the DynamoDB SDK to interact with the database.
+[Design and implement a Java Spring Boot microservice that uses Amazon DynamoDB to store and retrieve data. The service should expose a RESTful API to create, read, update, and delete records, and use the DynamoDB SDK to interact with the database.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Spring%20Boot%20DynamoDB%20SDK.md)
 
-Develop a Java Spring Boot microservice that uses MongoDB to store and retrieve data, and expose a RESTful API to query the data using the MongoDB Query Language (MQL). The service should use the MongoDB Java Driver to interact with the database, and implement basic error handling and validation.
+[Develop a Java Spring Boot microservice that uses MongoDB to store and retrieve data, and expose a RESTful API to query the data using the MongoDB Query Language (MQL). The service should use the MongoDB Java Driver to interact with the database, and implement basic error handling and validation.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Spring%20REST%20MongoDB%20MQL.md)
 
-Write a Java Spring Boot microservice that uses Apache Cassandra to store and retrieve data, and expose a RESTful API to perform CRUD operations on the data. The service should use the DataStax Java Driver to interact with the database, and implement basic error handling and consistency levels.
+[Write a Java Spring Boot microservice that uses Apache Cassandra to store and retrieve data, and expose a RESTful API to perform CRUD operations on the data. The service should use the DataStax Java Driver to interact with the database, and implement basic error handling and consistency levels.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Apache%20Cassandra%20DataStax.md)
 
-Implement a Java Spring Boot microservice that uses Apache HBase to store and retrieve data, and expose a RESTful API to query the data using the HBase Java API. The service should use the HBase Java Client to interact with the database, and implement basic error handling and pagination.
+[Implement a Java Spring Boot microservice that uses Apache HBase to store and retrieve data, and expose a RESTful API to query the data using the HBase Java API. The service should use the HBase Java Client to interact with the database, and implement basic error handling and pagination.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Apache%20HBase%20Client.md)
 
-Develop a Java Spring Boot microservice that uses Amazon DocumentDB to store and retrieve data in a MongoDB-compatible format, and expose a RESTful API to query the data using the MongoDB Query Language. The service should use the DocumentDB Java SDK to interact with the database, and implement basic error handling and validation.
+[Develop a Java Spring Boot microservice that uses Amazon DocumentDB to store and retrieve data in a MongoDB-compatible format, and expose a RESTful API to query the data using the MongoDB Query Language. The service should use the DocumentDB Java SDK to interact with the database, and implement basic error handling and validation.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Java%20Backend/Spring%20DocumentDB%20MongoDB.md)
 
 Develop a Java program that reads a CSV file and generates an HTML report with the data. The program should use a third-party library like OpenCSV to parse the CSV file, and generate a simple HTML report with a table and some basic formatting.
 

@@ -1,4 +1,4 @@
-# Central location for all of the questions without answers:
+# All of the questions without answers (answer linked if uploaded):
 
 [Explain how Docker containers work and how they differ from virtual machines. Provide an example of a Dockerfile and explain the different sections.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Docker%20Containers.md)
 
