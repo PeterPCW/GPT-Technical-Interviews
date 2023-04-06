@@ -20,15 +20,15 @@
 
 [Given a design mockup for a complex form with multiple sections and input types, write a React component that implements the form and handles user input validation. How would you ensure that the form meets the design specifications and provides a seamless user experience?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Form%20Input%20Validation.md)
 
-Given a large-scale React application with multiple components and stylesheets, how would you structure the CSS using a preprocessor like Sass or Less? What are some best practices for organizing styles and managing dependencies between components?
+[Given a large-scale React application with multiple components and stylesheets, how would you structure the CSS using a preprocessor like Sass or Less? What are some best practices for organizing styles and managing dependencies between components?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/CSS%20Best%20Practices.md)
 
-Write a Sass mixin that generates a gradient background with customizable colors and direction. How would you incorporate this mixin into your project, and what are some common use cases for gradient backgrounds in user interfaces?
+[Write a Sass mixin that generates a gradient background with customizable colors and direction. How would you incorporate this mixin into your project, and what are some common use cases for gradient backgrounds in user interfaces?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Sass%20Gradient%20Mixin.md)
 
-Implement a custom CSS3 layout that arranges a set of elements in a circular pattern. How would you ensure that the layout is responsive and works on different screen sizes and devices?
+[Implement a custom CSS3 layout that arranges a set of elements in a circular pattern. How would you ensure that the layout is responsive and works on different screen sizes and devices?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/CSS3%20Circular%20Layout.md)
 
-Write a set of reusable CSS3 animations that can be applied to various elements in a React application. How would you structure the animations to ensure they are performant and flexible enough to accommodate different use cases?
+[Write a set of reusable CSS3 animations that can be applied to various elements in a React application. How would you structure the animations to ensure they are performant and flexible enough to accommodate different use cases?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/CSS3%20Reusable%20Animations.md)
 
-You have been tasked with building a React dashboard that connects to several microservices to display real-time data. What techniques and patterns would you use to manage state and data flow within the application, and how would you handle potential issues with data consistency and API downtime?
+[You have been tasked with building a React dashboard that connects to several microservices to display real-time data. What techniques and patterns would you use to manage state and data flow within the application, and how would you handle potential issues with data consistency and API downtime?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Real-Time%20Dashboard%20Architecture.md)
 
 Write a TypeScript interface that defines the expected response schema for a REST API endpoint that returns a list of users. How would you use this interface to validate the API response and ensure that the data is correctly typed throughout your React components?
 

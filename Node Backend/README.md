@@ -20,15 +20,15 @@
 
 [Can you demonstrate how you would create a RESTful API endpoint using Node.js and the Amazon S3 API, and use it to upload and download files to and from an S3 bucket?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Amazon%20S3%20FileIO.md)
 
-How would you create an SQL schema and seed it with data using Node.js and the Sequelize ORM? Bonus points if you can demonstrate how you would create a migration to modify the schema.
+[How would you create an SQL schema and seed it with data using Node.js and the Sequelize ORM? Bonus points if you can demonstrate how you would create a migration to modify the schema.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Sequelize%20ORM%20Migration.md)
 
-How would you use Node.js and the Passport library to implement an authentication system that uses a local username/password strategy and stores user credentials securely using bcrypt hashing?
+[How would you use Node.js and the Passport library to implement an authentication system that uses a local username/password strategy and stores user credentials securely using bcrypt hashing?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Passport%20Authentication%20Bcrypt.md)
 
-How would you optimize a slow MongoDB query using Node.js and the Mongoose ORM, and ensure that the query results are cached to avoid future slowdowns?
+[How would you optimize a slow MongoDB query using Node.js and the Mongoose ORM, and ensure that the query results are cached to avoid future slowdowns?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Optimize%20Mongoose%20ORM.md)
 
-How would you use Node.js and the Redis database to implement a caching layer for a specific API endpoint that returns data that is expensive to compute, and configure the cache to automatically expire after a certain amount of time?
+[How would you use Node.js and the Redis database to implement a caching layer for a specific API endpoint that returns data that is expensive to compute, and configure the cache to automatically expire after a certain amount of time?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Redis%20Timed%20Cache.md)
 
-How would you use Node.js and the Knex.js library to implement a pagination system for a RESTful API endpoint that returns a large amount of data from a MySQL database, and ensure that the pagination logic is efficient and scalable?
+[How would you use Node.js and the Knex.js library to implement a pagination system for a RESTful API endpoint that returns a large amount of data from a MySQL database, and ensure that the pagination logic is efficient and scalable?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Node%20Backend/Knex%20MySQL%20Pagination.md)
 
 How would you use Node.js and the Mocha testing framework to write unit tests for a simple API endpoint that returns the sum of two numbers, ensuring that the endpoint handles invalid inputs correctly and returns the expected result?
 
