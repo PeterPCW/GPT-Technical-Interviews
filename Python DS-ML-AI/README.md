@@ -10,15 +10,15 @@
 
 [Describe how you would use Seaborn or Plotly to create a complex visualization that includes multiple variables, and explain how you would interpret the resulting visualization.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Seaborn%20Complex%20Visualization.md)
 
-Describe how you would use Matplotlib or Plotly to create a time series visualization that includes multiple data points, and explain how you would interpret the resulting visualization.
+[Describe how you would use Matplotlib or Plotly to create a time series visualization that includes multiple data points, and explain how you would interpret the resulting visualization.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Matplotlib%20Plotly%20Time%20Series.md)
 
-Describe how you would use Plotly to create a map-based visualization that includes data points and annotations, and explain how you would interpret the resulting visualization.
+[Describe how you would use Plotly to create a map-based visualization that includes data points and annotations, and explain how you would interpret the resulting visualization.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Plotly%20Mapped%20Annotations.md)
 
-Describe how you would use Seaborn or Matplotlib to create a grouped bar chart that shows the distribution of each category, and explain how you would interpret the resulting visualization.
+[Describe how you would use Seaborn or Matplotlib to create a grouped bar chart that shows the distribution of each category, and explain how you would interpret the resulting visualization.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Seaborn%20Bar%20Chart.md)
 
-Describe how you would use scikit-learn to implement a classification model that takes into account the imbalanced data, and evaluate its performance using appropriate metrics.
+[Describe how you would use scikit-learn to implement a classification model that takes into account the imbalanced data, and evaluate its performance using appropriate metrics.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Scikit-Learn%20Imbalanced%20Classification%20Model.md)
 
-Describe how you would use TensorFlow to create a regression model that can handle missing values, and evaluate its performance using appropriate metrics.
+[Describe how you would use TensorFlow to create a regression model that can handle missing values, and evaluate its performance using appropriate metrics.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/TensorFlow%20Regression%20Missing%20Values.md)
 
 Describe how you would use PyTorch to implement a convolutional neural network (CNN) that can classify the images into different categories, and evaluate its performance using appropriate metrics.
 
