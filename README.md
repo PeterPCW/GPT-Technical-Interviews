@@ -4,4 +4,4 @@ I am using chatGPT to generate technical interview questions related to roles I'
 
 **BE WARNED:** These answers may be incomplete and/or incorrect since they are chatGPT generated. Always review and test code before using it in real applications.
 
-To let you have a chance to solve the questions I will list them in a summary Readme in each category folder. Ones with uploaded the answers are linked there and saved by tool/topic in the same folder.
+To let you have a chance to solve the questions I will list them in a summary Readme in each category folder. Ones with answers uploaded are linked. Answers are saved by tool/topic in the same folder.
