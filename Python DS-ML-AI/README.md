@@ -1,14 +1,14 @@
 # All of the questions without answers (answer linked if uploaded):
 
-Given a large dataset containing missing values and outliers, describe how you would clean and prepare the data for analysis using Pandas and NumPy. What techniques would you use to fill in missing values and handle outliers?
+[Given a large dataset containing missing values and outliers, describe how you would clean and prepare the data for analysis using Pandas and NumPy. What techniques would you use to fill in missing values and handle outliers?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Cleaning%20Rough%20Dataset.md)
 
-Describe how you would use Pandas to identify and remove duplicate records, and ensure that the resulting dataset is clean and ready for analysis.
+[Describe how you would use Pandas to identify and remove duplicate records, and ensure that the resulting dataset is clean and ready for analysis.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Pandas%20Remove%20Duplicates.md)
 
-Describe how you would use Pandas and SciPy to interpolate the missing data points and ensure that the resulting time series is smooth and ready for analysis.
+[Describe how you would use Pandas and SciPy to interpolate the missing data points and ensure that the resulting time series is smooth and ready for analysis.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Pandas%20SciPy%20Interpolate.md)
 
-Describe how you would use Pandas and NumPy to transform the categorical variables into numerical variables that can be used for analysis. What techniques would you use to handle missing values or outliers in the categorical variables?
+[Describe how you would use Pandas and NumPy to transform the categorical variables into numerical variables that can be used for analysis. What techniques would you use to handle missing values or outliers in the categorical variables?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Pandas%20Transform%20Variables.md)
 
-Describe how you would use Seaborn or Plotly to create a complex visualization that includes multiple variables, and explain how you would interpret the resulting visualization.
+[Describe how you would use Seaborn or Plotly to create a complex visualization that includes multiple variables, and explain how you would interpret the resulting visualization.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Seaborn%20Complex%20Visualization.md)
 
 Describe how you would use Matplotlib or Plotly to create a time series visualization that includes multiple data points, and explain how you would interpret the resulting visualization.
 
