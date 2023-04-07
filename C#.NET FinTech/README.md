@@ -1,14 +1,14 @@
 # All of the questions without answers (answer linked if uploaded):
 
-Write a C# WinForms application that displays a list of customers from a database. Include a search bar that allows users to filter the list by customer name.
+[Write a C# WinForms application that displays a list of customers from a database. Include a search bar that allows users to filter the list by customer name.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/C%23.NET%20FinTech/WinForms%20Customer%20List.md)
 
-Write a C# method that takes a string and returns the number of vowels in the string.
+[Write a C# method that takes a string and returns the number of vowels in the string.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/C%23.NET%20FinTech/Sring%20Vowel%20Count.md)
 
-Write a C# WinForms application that allows users to create a new customer record and save it to a database. The customer record should include a name, email address, and phone number.
+[Write a C# WinForms application that allows users to create a new customer record and save it to a database. The customer record should include a name, email address, and phone number.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/C%23.NET%20FinTech/WinForms%20New%20Record.md)
 
-Write a C# method that takes an array of integers and returns the sum of all even numbers in the array.
+[Write a C# method that takes an array of integers and returns the sum of all even numbers in the array.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/C%23.NET%20FinTech/Even%20Numbers%20Sum.md)
 
-Write a C# WinForms application that allows users to upload a file to a server. The application should display the progress of the upload in real-time.
+[Write a C# WinForms application that allows users to upload a file to a server. The application should display the progress of the upload in real-time.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/C%23.NET%20FinTech/WinForms%20Server%20Upload.md)
 
 What are the differences between .NET Framework and .NET Core, and when would you choose one over the other?
 
