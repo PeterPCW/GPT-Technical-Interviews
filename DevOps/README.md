@@ -18,19 +18,19 @@
 
 [How does Ansible differ from Chef in terms of Configuration Management? Explain the Ansible Playbook structure and its components, and provide an example of a Playbook that installs and configures Nginx on a remote server.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Ansible%20Playbook%20Nginx.md)
 
-Explain how Chef works and how it is used for Configuration Management. Describe the architecture of a Chef deployment, including the Chef Server, Workstation, and Nodes. Provide an example of a Chef recipe that installs and configures Apache on a node.
+[Explain how Chef works and how it is used for Configuration Management. Describe the architecture of a Chef deployment, including the Chef Server, Workstation, and Nodes. Provide an example of a Chef recipe that installs and configures Apache on a node.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Apache%20Chef%20Recipe.md)
 
-What is the role of Configuration Management in a DevOps environment? How does it help automate the deployment and management of infrastructure? Describe a common use case for Configuration Management in a production environment and explain how it can be implemented using Ansible or Chef.
+[What is the role of Configuration Management in a DevOps environment? How does it help automate the deployment and management of infrastructure? Describe a common use case for Configuration Management in a production environment and explain how it can be implemented using Ansible or Chef.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Automated%20Configuration%20Management.md)
 
-What is Infrastructure as Code (IaaC)? How does Terraform help to implement IaaC? Provide an example of a Terraform configuration file, and explain how it works.
+[What is Infrastructure as Code (IaaC)? How does Terraform help to implement IaaC? Provide an example of a Terraform configuration file, and explain how it works.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Terraform%20IaaC.md)
 
-What are the benefits of using Terraform to manage infrastructure? How does it compare to other IaaC tools? Explain the key features of Terraform, including state management and provider plugins.
+[What are the benefits of using Terraform to manage infrastructure? How does it compare to other IaaC tools? Explain the key features of Terraform, including state management and provider plugins.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Terraform%20Key%20Features.md)
 
-Explain how Terraform works with cloud providers like AWS, Azure, or GCP. What are the different types of resources that can be managed using Terraform? Provide an example of how to create a virtual machine in AWS using Terraform.
+[Explain how Terraform works with cloud providers like AWS, Azure, or GCP. What are the different types of resources that can be managed using Terraform? Provide an example of how to create a virtual machine in AWS using Terraform.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Terraform%20Cloud%20VM.md)
 
-Describe the Terraform execution plan and how it helps to manage infrastructure changes. How does Terraform determine what changes need to be made, and how does it execute those changes? Provide an example of how to generate an execution plan and apply it to a Terraform configuration.
+[Describe the Terraform execution plan and how it helps to manage infrastructure changes. How does Terraform determine what changes need to be made, and how does it execute those changes? Provide an example of how to generate an execution plan and apply it to a Terraform configuration.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Terraform%20Execution%20Plan.md)
 
-Explain how to use Terraform modules to manage reusable infrastructure components. What are some best practices for creating and using Terraform modules? Provide an example of a Terraform module that creates a load balancer in AWS.
+[Explain how to use Terraform modules to manage reusable infrastructure components. What are some best practices for creating and using Terraform modules? Provide an example of a Terraform module that creates a load balancer in AWS.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Terraform%20Reusable%20Modules.md)
 
 What are some key features of Nagios and how does it enable effective monitoring and alerting in a DevOps environment? Describe the architecture of Nagios and how it integrates with other tools. Provide an example of how to set up a Nagios plugin to monitor a network service.
 
