@@ -30,15 +30,15 @@
 
 [You have been tasked with building a React dashboard that connects to several microservices to display real-time data. What techniques and patterns would you use to manage state and data flow within the application, and how would you handle potential issues with data consistency and API downtime?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Real-Time%20Dashboard%20Architecture.md)
 
-Write a TypeScript interface that defines the expected response schema for a REST API endpoint that returns a list of users. How would you use this interface to validate the API response and ensure that the data is correctly typed throughout your React components?
+[Write a TypeScript interface that defines the expected response schema for a REST API endpoint that returns a list of users. How would you use this interface to validate the API response and ensure that the data is correctly typed throughout your React components?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/TypeScript%20Validation%20Interface.md)
 
-You need to integrate a third-party API into your React application to handle user authentication. How would you handle the authentication flow, store the user's credentials securely, and ensure that the application is protected against common security vulnerabilities like cross-site scripting and SQL injection?
+[You need to integrate a third-party API into your React application to handle user authentication. How would you handle the authentication flow, store the user's credentials securely, and ensure that the application is protected against common security vulnerabilities like cross-site scripting and SQL injection?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/Third-Party%20Authentication%20Security.md)
 
-You are building a React application that needs to display data from a GraphQL API. What are some best practices for managing queries and caching data within the application, and how would you ensure that the data is correctly typed using TypeScript?
+[You are building a React application that needs to display data from a GraphQL API. What are some best practices for managing queries and caching data within the application, and how would you ensure that the data is correctly typed using TypeScript?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/TypeScript%20GraphQL%20Caching.md)
 
-You have been given a loosely defined API specification for a microservice that returns weather data for a given location. Write a TypeScript interface that defines the expected response schema, and write a React component that uses this interface to display the weather data in a user-friendly format. How would you handle potential errors or inconsistencies in the API response?
+[You have been given a loosely defined API specification for a microservice that returns weather data for a given location. Write a TypeScript interface that defines the expected response schema, and write a React component that uses this interface to display the weather data in a user-friendly format. How would you handle potential errors or inconsistencies in the API response?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/TypeScript%20API%20Interface.md)
 
-How would you ensure that a React application is optimized for search engine crawlers and supports basic SEO best practices? What are some common pitfalls to avoid when building SEO-friendly React applications?
+[How would you ensure that a React application is optimized for search engine crawlers and supports basic SEO best practices? What are some common pitfalls to avoid when building SEO-friendly React applications?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/React%20Frontend/SEO%20Optimized%20React.md)
 
 Write a React component that tracks user clicks and sends the data to Google Analytics. How would you ensure that the tracking code is loaded asynchronously and doesn't affect the performance of the application?
 
