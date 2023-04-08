@@ -1,0 +1,13 @@
+# What is Zabbix and how does it compare to other monitoring tools like Nagios? Describe the architecture of a Zabbix server and how it collects and aggregates monitoring data. Provide an example of how to create a Zabbix agent to monitor a specific system metric.
+
+Zabbix is an open-source monitoring tool that allows you to monitor various aspects of your IT infrastructure, including servers, network devices, and applications. It is similar to Nagios in many ways, but has some additional features that make it popular among DevOps teams.
+
+The architecture of a Zabbix deployment includes several key components. The Zabbix server is the central component that collects and processes monitoring data. Zabbix agents are installed on each monitored host and send data to the server. Zabbix proxies can be used to collect data from remote locations or to distribute the workload of monitoring across multiple servers. Zabbix also includes a web interface for viewing and managing monitoring data, as well as a database for storing historical data.
+
+To create a Zabbix agent to monitor a specific system metric, you would first need to install the Zabbix agent on the target host. This can typically be done using the package manager for your operating system. Once the agent is installed, you would then need to configure it to send data to your Zabbix server. This is typically done by editing the agent configuration file, which specifies the IP address or hostname of the Zabbix server and other settings such as the port number and hostname of the monitored host.
+
+After the agent is configured, you can then create a Zabbix item to monitor the desired system metric. Zabbix items are used to collect specific pieces of data, such as CPU usage or memory usage, from a monitored host. To create an item, you would specify the type of data to be collected, the command or script to collect the data, and other settings such as the monitoring interval and data retention period.
+
+Once the item is created, you can then create triggers and notifications to alert you when the metric exceeds a certain threshold or other criteria. Triggers can be configured to generate alerts based on a wide range of conditions, including simple threshold values, time periods, and combinations of metrics. Notifications can be sent via email, SMS, or other methods, and can include details about the specific metric and trigger that generated the alert.
+
+Overall, Zabbix is a powerful monitoring tool that provides a wide range of features and customization options. It can be used to monitor everything from basic system metrics to complex distributed applications, and can help DevOps teams quickly identify and respond to issues before they become critical.

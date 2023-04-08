@@ -32,25 +32,25 @@
 
 [Explain how to use Terraform modules to manage reusable infrastructure components. What are some best practices for creating and using Terraform modules? Provide an example of a Terraform module that creates a load balancer in AWS.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Terraform%20Reusable%20Modules.md)
 
-What are some key features of Nagios and how does it enable effective monitoring and alerting in a DevOps environment? Describe the architecture of Nagios and how it integrates with other tools. Provide an example of how to set up a Nagios plugin to monitor a network service.
+[What are some key features of Nagios and how does it enable effective monitoring and alerting in a DevOps environment? Describe the architecture of Nagios and how it integrates with other tools. Provide an example of how to set up a Nagios plugin to monitor a network service.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Nagios%20Monitoring%20Architecture.md)
 
-What is Zabbix and how does it compare to other monitoring tools like Nagios? Describe the architecture of a Zabbix server and how it collects and aggregates monitoring data. Provide an example of how to create a Zabbix agent to monitor a specific system metric.
+[What is Zabbix and how does it compare to other monitoring tools like Nagios? Describe the architecture of a Zabbix server and how it collects and aggregates monitoring data. Provide an example of how to create a Zabbix agent to monitor a specific system metric.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Zabbix%20Monitoring%20Architecture.md)
 
-What are some key features of Prometheus and how does it differ from other monitoring tools like Nagios and Zabbix? Describe the architecture of Prometheus and how it works with exporters and push gateways. Provide an example of how to create a Prometheus query to visualize a specific metric.
+[What are some key features of Prometheus and how does it differ from other monitoring tools like Nagios and Zabbix? Describe the architecture of Prometheus and how it works with exporters and push gateways. Provide an example of how to create a Prometheus query to visualize a specific metric.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Prometheus%20Monitoring%20Architecture.md)
 
-What is Grafana and how does it enable effective visualization and analysis of monitoring data? Describe the architecture of a Grafana server and how it integrates with other tools like Prometheus. Provide an example of how to create a Grafana dashboard to display a set of metrics from Prometheus.
+[What is Grafana and how does it enable effective visualization and analysis of monitoring data? Describe the architecture of a Grafana server and how it integrates with other tools like Prometheus. Provide an example of how to create a Grafana dashboard to display a set of metrics from Prometheus.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Grafana%20Prometheus%20Integration.md)
 
-What is Amazon VPC? Explain the process of creating a VPC and subnet in AWS. Provide an example of a VPC peering configuration.
+[What is Amazon VPC? Explain the process of creating a VPC and subnet in AWS. Provide an example of a VPC peering configuration.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Amazon%20VPC%20Peering.md)
 
-Explain how AWS EC2 instances work and how they can be customized for different workloads. How do you create and launch an EC2 instance using the AWS CLI or AWS Management Console? Provide an example of a script to automate the process.
+[Explain how AWS EC2 instances work and how they can be customized for different workloads. How do you create and launch an EC2 instance using the AWS CLI or AWS Management Console? Provide an example of a script to automate the process.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/AWS%20EC2%20CLI%20Launch.md)
 
-What is Azure Resource Manager (ARM)? Explain how ARM templates work and how they can be used to deploy and manage Azure resources. Provide an example of an ARM template to create a virtual machine in Azure.
+[What is Azure Resource Manager (ARM)? Explain how ARM templates work and how they can be used to deploy and manage Azure resources. Provide an example of an ARM template to create a virtual machine in Azure.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Azure%20ARM%20VM.md)
 
-What is Azure App Service? Explain how App Service works and how it can be used to host web applications. How do you create and deploy a web application to Azure App Service using Azure CLI or Azure Portal? Provide an example of a deployment script.
+[What is Azure App Service? Explain how App Service works and how it can be used to host web applications. How do you create and deploy a web application to Azure App Service using Azure CLI or Azure Portal? Provide an example of a deployment script.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Azure%20App%20Service%20CLI.md)
 
-What is Google Cloud Storage? Explain how GCP Storage buckets work and how they can be used to store and manage data. How do you create and manage GCP Storage buckets using the GCP Console or gcloud CLI? Provide an example of a script to upload files to a GCP Storage bucket.
+[What is Google Cloud Storage? Explain how GCP Storage buckets work and how they can be used to store and manage data. How do you create and manage GCP Storage buckets using the GCP Console or gcloud CLI? Provide an example of a script to upload files to a GCP Storage bucket.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/GPC%20Buckets%20CLI.md)
 
-Explain the concept of GCP Compute Engine and how it can be used to deploy and manage virtual machines in GCP. How do you create and launch a GCP Compute Engine instance using the GCP Console or gcloud CLI? Provide an example of a script to automate the process.
+[Explain the concept of GCP Compute Engine and how it can be used to deploy and manage virtual machines in GCP. How do you create and launch a GCP Compute Engine instance using the GCP Console or gcloud CLI? Provide an example of a script to automate the process.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/DevOps/Google%20Compute%20Engine%20CLI.md)
 
 How does Vault help manage secrets and sensitive data in a secure manner? What are some key features of Vault that enable secure secret management, and how do they work? Provide an example of how to store and retrieve a secret using Vault's CLI.
 
