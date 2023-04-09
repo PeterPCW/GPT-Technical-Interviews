@@ -20,17 +20,17 @@
 
 [Describe how you would use TensorFlow to create a regression model that can handle missing values, and evaluate its performance using appropriate metrics.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/TensorFlow%20Regression%20Missing%20Values.md)
 
-Describe how you would use PyTorch to implement a convolutional neural network (CNN) that can classify the images into different categories, and evaluate its performance using appropriate metrics.
+[Describe how you would use PyTorch to implement a convolutional neural network (CNN) that can classify the images into different categories, and evaluate its performance using appropriate metrics.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/PyTorch%20Images%20CNN.md)
 
-Describe how you would use scikit-learn to reduce the number of features in the data and then use a clustering algorithm to cluster the data into different groups.
+[Describe how you would use scikit-learn to reduce the number of features in the data and then use a clustering algorithm to cluster the data into different groups.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Scikit-Learn%20Reduce%20Features%20Clustering.md)
 
-Describe how you would use TensorFlow or PyTorch to build a neural network model for image classification. What techniques would you use to optimize the model, and how would you evaluate its performance?
+[Describe how you would use TensorFlow or PyTorch to build a neural network model for image classification. What techniques would you use to optimize the model, and how would you evaluate its performance?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/TensorFlow%20Images%20Neural%20Network.md)
 
-Describe how you would use scikit-learn to preprocess the data, including techniques for filling in missing values and handling outliers, and then train a machine learning model to predict an outcome variable.
+[Describe how you would use scikit-learn to preprocess the data, including techniques for filling in missing values and handling outliers, and then train a machine learning model to predict an outcome variable.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/Scikit-Learn%20Preprocess%20Prediciton%20Model.md)
 
-Describe how you would use PyTorch to build a deep learning model that can handle the correlated features and predict an outcome variable accurately.
+[Describe how you would use PyTorch to build a deep learning model that can handle the correlated features and predict an outcome variable accurately.](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/PyTorch%20Deep%20Learning.md)
 
-Describe how you would use TensorFlow to build a recurrent neural network (RNN) model that can predict future values of one or more variables, given past values of those variables and other variables in the dataset. How would you optimize the model and evaluate its performance?
+[Describe how you would use TensorFlow to build a recurrent neural network (RNN) model that can predict future values of one or more variables, given past values of those variables and other variables in the dataset. How would you optimize the model and evaluate its performance?](https://github.com/PeterPCW/GPT-Technical-Interviews/blob/main/Python%20DS-ML-AI/TensorFlow%20RNN%20Optimization.md)
 
 What are the key differences between NLTK and Spacy? In which situations would you choose to use one library over the other for a natural language processing task?
 
